@@ -1,4 +1,3 @@
-```markdown
 # FastAPI Bible Characters and Verses
 
 This project is a simple FastAPI application that provides endpoints for retrieving and storing information about Bible characters and verses. It was created as part of a cloud computing activity.
